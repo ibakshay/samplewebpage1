@@ -1,2 +1,2 @@
-# tindog
+# Samplewebpage1
 Responsive webpage with Bootstrap Framework and CSS
